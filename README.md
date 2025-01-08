@@ -31,3 +31,8 @@
 > mkdir lib
 
 > /lib/prisma.ts -> export default prisma;
+
+### View Content from dbb
+
+> /pages/index.tsx -> import prisma from "../lib/prisma";
+> /pages/p/[id].tsx -> import prisma from "../lib/prisma";
