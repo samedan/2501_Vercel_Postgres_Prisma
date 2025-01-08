@@ -23,3 +23,11 @@
 # Prisma client
 
 > npm install @prisma/client
+
+### Add Prisma Client to own Schema
+
+> npx prisma generate
+
+> mkdir lib
+
+> /lib/prisma.ts -> export default prisma;
