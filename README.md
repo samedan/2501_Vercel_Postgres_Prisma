@@ -18,7 +18,7 @@
 
 > npx prisma studio
 >
-> > ![Prisma](https://github.com/samedan/2501_Vercel_Postgres_Prisma/blob/main/public/printscreens/01printscreen.jpg)
+> > ![Prisma](https://github.com/samedan/2501_Vercel_Postgres_Prisma/blob/main/_printscreens/01printscreen.jpg)
 
 # Prisma client
 
